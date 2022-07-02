@@ -6,5 +6,6 @@
     "author_name": "HE Yaowen",
     "author_email": "he.yaowen@hotmail.com",
     "github_user": "he-yaowen",
-    "node_version": "16.18.1"
+    "node_version": "16.18.1",
+    "use_docker": ["yes", "no"]
 }

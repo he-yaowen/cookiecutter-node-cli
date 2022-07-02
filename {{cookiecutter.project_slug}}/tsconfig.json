@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "outDir": "dist",
+        "module": "CommonJS",
+        "sourceMap": true,
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
+        "strict": true,
+        "noImplicitAny": false,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "removeComments": true
+    },
+    "exclude": [
+        "dist",
+        "node_modules"
+    ]
+}
